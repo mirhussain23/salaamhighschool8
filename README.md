@@ -1,0 +1,2 @@
+# salaamhighschool
+School page
